@@ -1,0 +1,2168 @@
+[
+  [
+    {
+      "Rank": "1",
+      "City": "Mumbai",
+      "Population\n(2011)[3]": "12,442,373",
+      "Population\n(2001)": "11,978,450",
+      "State or Union territory": "Maharashtra",
+      "Ref": "[4]"
+    },
+    {
+      "Rank": "2",
+      "City": "Delhi",
+      "Population\n(2011)[3]": "11,034,555",
+      "Population\n(2001)": "9,879,172",
+      "State or Union territory": "Delhi",
+      "Ref": "[5]"
+    },
+    {
+      "Rank": "3",
+      "City": "Bangalore",
+      "Population\n(2011)[3]": "8,443,675",
+      "Population\n(2001)": "4,301,326",
+      "State or Union territory": "Karnataka",
+      "Ref": "[6]"
+    },
+    {
+      "Rank": "4",
+      "City": "Hyderabad",
+      "Population\n(2011)[3]": "6,993,262",
+      "Population\n(2001)": "3,637,483",
+      "State or Union territory": "Telangana",
+      "Ref": "[7]"
+    },
+    {
+      "Rank": "5",
+      "City": "Ahmedabad",
+      "Population\n(2011)[3]": "5,577,940",
+      "Population\n(2001)": "3,520,085",
+      "State or Union territory": "Gujarat",
+      "Ref": "[8]"
+    },
+    {
+      "Rank": "6",
+      "City": "Chennai",
+      "Population\n(2011)[3]": "4,646,732",
+      "Population\n(2001)": "4,343,645",
+      "State or Union territory": "Tamil Nadu",
+      "Ref": "[9] [10]"
+    },
+    {
+      "Rank": "7",
+      "City": "Kolkata",
+      "Population\n(2011)[3]": "4,496,694",
+      "Population\n(2001)": "4,572,876",
+      "State or Union territory": "West Bengal",
+      "Ref": "[11]"
+    },
+    {
+      "Rank": "8",
+      "City": "Surat",
+      "Population\n(2011)[3]": "4,467,797",
+      "Population\n(2001)": "2,433,835",
+      "State or Union territory": "Gujarat",
+      "Ref": "[8]"
+    },
+    {
+      "Rank": "9",
+      "City": "Pune",
+      "Population\n(2011)[3]": "3,124,458",
+      "Population\n(2001)": "2,538,473",
+      "State or Union territory": "Maharashtra",
+      "Ref": "[12]"
+    },
+    {
+      "Rank": "10",
+      "City": "Jaipur",
+      "Population\n(2011)[3]": "3,046,163",
+      "Population\n(2001)": "2,322,575",
+      "State or Union territory": "Rajasthan",
+      "Ref": "[13]"
+    },
+    {
+      "Rank": "11",
+      "City": "Lucknow",
+      "Population\n(2011)[3]": "2,817,105",
+      "Population\n(2001)": "2,185,927",
+      "State or Union territory": "Uttar Pradesh",
+      "Ref": "[14]"
+    },
+    {
+      "Rank": "12",
+      "City": "Kanpur",
+      "Population\n(2011)[3]": "2,765,348",
+      "Population\n(2001)": "2,551,337",
+      "State or Union territory": "Uttar Pradesh",
+      "Ref": "[15]"
+    },
+    {
+      "Rank": "13",
+      "City": "Nagpur",
+      "Population\n(2011)[3]": "2,405,665",
+      "Population\n(2001)": "2,052,066",
+      "State or Union territory": "Maharashtra",
+      "Ref": "[16]"
+    },
+    {
+      "Rank": "14",
+      "City": "Visakhapatnam[a]",
+      "Population\n(2011)[3]": "2,035,922",
+      "Population\n(2001)": "982,904",
+      "State or Union territory": "Andhra Pradesh",
+      "Ref": "[18]"
+    },
+    {
+      "Rank": "15",
+      "City": "Indore",
+      "Population\n(2011)[3]": "1,960,631",
+      "Population\n(2001)": "1,474,968",
+      "State or Union territory": "Madhya Pradesh"
+    },
+    {
+      "Rank": "16",
+      "City": "Thane",
+      "Population\n(2011)[3]": "1,818,872",
+      "Population\n(2001)": "1,262,551",
+      "State or Union territory": "Maharashtra"
+    },
+    {
+      "Rank": "17",
+      "City": "Bhopal",
+      "Population\n(2011)[3]": "1,798,218",
+      "Population\n(2001)": "1,437,354",
+      "State or Union territory": "Madhya Pradesh"
+    },
+    {
+      "Rank": "18",
+      "City": "Pimpri-Chinchwad",
+      "Population\n(2011)[3]": "1,729,359",
+      "Population\n(2001)": "1,012,472",
+      "State or Union territory": "Maharashtra"
+    },
+    {
+      "Rank": "19",
+      "City": "Patna",
+      "Population\n(2011)[3]": "1,683,200",
+      "Population\n(2001)": "1,366,444",
+      "State or Union territory": "Bihar"
+    },
+    {
+      "Rank": "20",
+      "City": "Vadodara",
+      "Population\n(2011)[3]": "1,666,703",
+      "Population\n(2001)": "1,306,227",
+      "State or Union territory": "Gujarat"
+    },
+    {
+      "Rank": "21",
+      "City": "Ghaziabad",
+      "Population\n(2011)[3]": "1,636,068",
+      "Population\n(2001)": "968,256",
+      "State or Union territory": "Uttar Pradesh"
+    },
+    {
+      "Rank": "22",
+      "City": "Ludhiana",
+      "Population\n(2011)[3]": "1,613,878",
+      "Population\n(2001)": "1,398,467",
+      "State or Union territory": "Punjab"
+    },
+    {
+      "Rank": "23",
+      "City": "Coimbatore[19]",
+      "Population\n(2011)[3]": "1,601,438",
+      "Population\n(2001)": "930,882",
+      "State or Union territory": "Tamil Nadu"
+    },
+    {
+      "Rank": "24",
+      "City": "Agra",
+      "Population\n(2011)[3]": "1,585,704",
+      "Population\n(2001)": "1,275,134",
+      "State or Union territory": "Uttar Pradesh"
+    },
+    {
+      "Rank": "25",
+      "City": "Madurai[20]",
+      "Population\n(2011)[3]": "1,561,129",
+      "Population\n(2001)": "928,869",
+      "State or Union territory": "Tamil Nadu"
+    }
+  ],
+  [
+    {
+      "Rank_2": "26",
+      "City_2": "Nashik",
+      "Population\n(2011)[3]_2": "1,486,973",
+      "Population\n(2001)_2": "1,077,236",
+      "State or Union territory_2": "Maharashtra"
+    },
+    {
+      "Rank_2": "27",
+      "City_2": "Faridabad",
+      "Population\n(2011)[3]_2": "1,404,653",
+      "Population\n(2001)_2": "1,055,938",
+      "State or Union territory_2": "Haryana"
+    },
+    {
+      "Rank_2": "28",
+      "City_2": "Meerut",
+      "Population\n(2011)[3]_2": "1,309,023",
+      "Population\n(2001)_2": "1,039,405",
+      "State or Union territory_2": "Uttar Pradesh"
+    },
+    {
+      "Rank_2": "29",
+      "City_2": "Rajkot",
+      "Population\n(2011)[3]_2": "1,286,995",
+      "Population\n(2001)_2": "967,476",
+      "State or Union territory_2": "Gujarat"
+    },
+    {
+      "Rank_2": "30",
+      "City_2": "Kalyan-Dombivali",
+      "Population\n(2011)[3]_2": "1,246,381",
+      "Population\n(2001)_2": "1,193,512",
+      "State or Union territory_2": "Maharashtra"
+    },
+    {
+      "Rank_2": "31",
+      "City_2": "Vasai-Virar",
+      "Population\n(2011)[3]_2": "1,221,233",
+      "Population\n(2001)_2": "693,350",
+      "State or Union territory_2": "Maharashtra"
+    },
+    {
+      "Rank_2": "32",
+      "City_2": "Varanasi",
+      "Population\n(2011)[3]_2": "1,201,815",
+      "Population\n(2001)_2": "1,091,918",
+      "State or Union territory_2": "Uttar Pradesh"
+    },
+    {
+      "Rank_2": "33",
+      "City_2": "Srinagar",
+      "Population\n(2011)[3]_2": "1,192,792",
+      "Population\n(2001)_2": "898,440",
+      "State or Union territory_2": "Jammu and Kashmir"
+    },
+    {
+      "Rank_2": "34",
+      "City_2": "Aurangabad",
+      "Population\n(2011)[3]_2": "1,171,330",
+      "Population\n(2001)_2": "873,311",
+      "State or Union territory_2": "Maharashtra"
+    },
+    {
+      "Rank_2": "35",
+      "City_2": "Dhanbad",
+      "Population\n(2011)[3]_2": "1,161,561",
+      "Population\n(2001)_2": "1,065,327",
+      "State or Union territory_2": "Jharkhand"
+    },
+    {
+      "Rank_2": "36",
+      "City_2": "Amritsar",
+      "Population\n(2011)[3]_2": "1,132,761",
+      "Population\n(2001)_2": "966,862",
+      "State or Union territory_2": "Punjab"
+    },
+    {
+      "Rank_2": "37",
+      "City_2": "Navi Mumbai",
+      "Population\n(2011)[3]_2": "1,119,477",
+      "Population\n(2001)_2": "704,002",
+      "State or Union territory_2": "Maharashtra"
+    },
+    {
+      "Rank_2": "38",
+      "City_2": "Allahabad",
+      "Population\n(2011)[3]_2": "1,117,094",
+      "Population\n(2001)_2": "975,393",
+      "State or Union territory_2": "Uttar Pradesh"
+    },
+    {
+      "Rank_2": "39",
+      "City_2": "Ranchi",
+      "Population\n(2011)[3]_2": "1,073,440",
+      "Population\n(2001)_2": "847,093",
+      "State or Union territory_2": "Jharkhand"
+    },
+    {
+      "Rank_2": "40",
+      "City_2": "Howrah (city area)",
+      "Population\n(2011)[3]_2": "1,072,161",
+      "Population\n(2001)_2": "1,007,532",
+      "State or Union territory_2": "West Bengal"
+    },
+    {
+      "Rank_2": "41",
+      "City_2": "Jabalpur",
+      "Population\n(2011)[3]_2": "1,054,336",
+      "Population\n(2001)_2": "932,484",
+      "State or Union territory_2": "Madhya Pradesh"
+    },
+    {
+      "Rank_2": "42",
+      "City_2": "Gwalior",
+      "Population\n(2011)[3]_2": "1,053,505",
+      "Population\n(2001)_2": "827,026",
+      "State or Union territory_2": "Madhya Pradesh"
+    },
+    {
+      "Rank_2": "43",
+      "City_2": "Vijayawada",
+      "Population\n(2011)[3]_2": "1,034,358",
+      "Population\n(2001)_2": "851,282",
+      "State or Union territory_2": "Andhra Pradesh[21]"
+    },
+    {
+      "Rank_2": "44",
+      "City_2": "Jodhpur",
+      "Population\n(2011)[3]_2": "1,033,918",
+      "Population\n(2001)_2": "851,051",
+      "State or Union territory_2": "Rajasthan"
+    },
+    {
+      "Rank_2": "45",
+      "City_2": "Raipur",
+      "Population\n(2011)[3]_2": "1,010,087",
+      "Population\n(2001)_2": "605,747",
+      "State or Union territory_2": "Chhattisgarh"
+    },
+    {
+      "Rank_2": "46",
+      "City_2": "Kota[22]",
+      "Population\n(2011)[3]_2": "1,001,694",
+      "Population\n(2001)_2": "694,316",
+      "State or Union territory_2": "Rajasthan"
+    },
+    {
+      "Rank_2": "47",
+      "City_2": "Guwahati",
+      "Population\n(2011)[3]_2": "963,429",
+      "Population\n(2001)_2": "809,895",
+      "State or Union territory_2": "Assam"
+    },
+    {
+      "Rank_2": "48",
+      "City_2": "Chandigarh",
+      "Population\n(2011)[3]_2": "960,787",
+      "Population\n(2001)_2": "808,515",
+      "State or Union territory_2": "Chandigarh"
+    },
+    {
+      "Rank_2": "49",
+      "City_2": "Thiruvananthapuram",
+      "Population\n(2011)[3]_2": "957,730",
+      "Population\n(2001)_2": "744,983",
+      "State or Union territory_2": "Kerala"
+    },
+    {
+      "Rank_2": "50",
+      "City_2": "Solapur",
+      "Population\n(2011)[3]_2": "951,118",
+      "Population\n(2001)_2": "872,478",
+      "State or Union territory_2": "Maharashtra"
+    }
+  ],
+  [
+    {
+      "Rank_3": "51",
+      "City_3": "Hubballi-Dharwad",
+      "Population\n(2011)[3]_3": "943,857",
+      "Population\n(2001)_3": "786,195",
+      "State or Union territory_3": "Karnataka"
+    },
+    {
+      "Rank_3": "52",
+      "City_3": "Tiruchirappalli[23]",
+      "Population\n(2011)[3]_3": "916,674",
+      "Population\n(2001)_3": "752,066",
+      "State or Union territory_3": "Tamil Nadu"
+    },
+    {
+      "Rank_3": "53",
+      "City_3": "Tiruppur",
+      "Population\n(2011)[3]_3": "898,167",
+      "Population\n(2001)_3": "718,395",
+      "State or Union territory_3": "Tamil Nadu"
+    },
+    {
+      "Rank_3": "54",
+      "City_3": "Moradabad",
+      "Population\n(2011)[3]_3": "889,810",
+      "Population\n(2001)_3": "641,583",
+      "State or Union territory_3": "Uttar Pradesh"
+    },
+    {
+      "Rank_3": "55",
+      "City_3": "Mysore",
+      "Population\n(2011)[3]_3": "887,446",
+      "Population\n(2001)_3": "755,379",
+      "State or Union territory_3": "Karnataka"
+    },
+    {
+      "Rank_3": "56",
+      "City_3": "Bareily",
+      "Population\n(2011)[3]_3": "877,778",
+      "Population\n(2001)_3": "344,543",
+      "State or Union territory_3": "Uttar Pradesh"
+    },
+    {
+      "Rank_3": "57",
+      "City_3": "Gurgaon",
+      "Population\n(2011)[3]_3": "876,824",
+      "Population\n(2001)_3": "173,542",
+      "State or Union territory_3": "Haryana"
+    },
+    {
+      "Rank_3": "58",
+      "City_3": "Aligarh",
+      "Population\n(2011)[3]_3": "872,575",
+      "Population\n(2001)_3": "669,087",
+      "State or Union territory_3": "Uttar Pradesh"
+    },
+    {
+      "Rank_3": "59",
+      "City_3": "Jalandhar",
+      "Population\n(2011)[3]_3": "862,196",
+      "Population\n(2001)_3": "706,043",
+      "State or Union territory_3": "Punjab"
+    },
+    {
+      "Rank_3": "60",
+      "City_3": "Bhubaneswar",
+      "Population\n(2011)[3]_3": "837,737",
+      "Population\n(2001)_3": "648,032",
+      "State or Union territory_3": "Odisha"
+    },
+    {
+      "Rank_3": "61",
+      "City_3": "Salem",
+      "Population\n(2011)[3]_3": "831,038",
+      "Population\n(2001)_3": "696,760",
+      "State or Union territory_3": "Tamil Nadu"
+    },
+    {
+      "Rank_3": "62",
+      "City_3": "Mira-Bhayandar",
+      "Population\n(2011)[3]_3": "814,655",
+      "Population\n(2001)_3": "520,388",
+      "State or Union territory_3": "Maharashtra"
+    },
+    {
+      "Rank_3": "63",
+      "City_3": "Warangal[24]",
+      "Population\n(2011)[3]_3": "811,844",
+      "Population\n(2001)_3": "530,636",
+      "State or Union territory_3": "Telangana"
+    },
+    {
+      "Rank_3": "64",
+      "City_3": "Guntur[25]",
+      "Population\n(2011)[3]_3": "743,354",
+      "Population\n(2001)_3": "514,461",
+      "State or Union territory_3": "Andhra Pradesh"
+    },
+    {
+      "Rank_3": "65",
+      "City_3": "Bhiwandi",
+      "Population\n(2011)[3]_3": "711,329",
+      "Population\n(2001)_3": "598,741",
+      "State or Union territory_3": "Maharashtra"
+    },
+    {
+      "Rank_3": "66",
+      "City_3": "Saharanpur",
+      "Population\n(2011)[3]_3": "703,345",
+      "Population\n(2001)_3": "455,754",
+      "State or Union territory_3": "Uttar Pradesh"
+    },
+    {
+      "Rank_3": "67",
+      "City_3": "Gorakhpur",
+      "Population\n(2011)[3]_3": "671,048",
+      "Population\n(2001)_3": "622,701",
+      "State or Union territory_3": "Uttar Pradesh"
+    },
+    {
+      "Rank_3": "68",
+      "City_3": "Bikaner",
+      "Population\n(2011)[3]_3": "647,804",
+      "Population\n(2001)_3": "529,690",
+      "State or Union territory_3": "Rajasthan"
+    },
+    {
+      "Rank_3": "69",
+      "City_3": "Amravati",
+      "Population\n(2011)[3]_3": "646,801",
+      "Population\n(2001)_3": "549,510",
+      "State or Union territory_3": "Maharashtra"
+    },
+    {
+      "Rank_3": "70",
+      "City_3": "Noida",
+      "Population\n(2011)[3]_3": "642,381",
+      "Population\n(2001)_3": "305,058",
+      "State or Union territory_3": "Uttar Pradesh"
+    },
+    {
+      "Rank_3": "71",
+      "City_3": "Jamshedpur",
+      "Population\n(2011)[3]_3": "631,364",
+      "Population\n(2001)_3": "573,096",
+      "State or Union territory_3": "Jharkhand"
+    },
+    {
+      "Rank_3": "72",
+      "City_3": "Bhilai",
+      "Population\n(2011)[3]_3": "625,697",
+      "Population\n(2001)_3": "556,366",
+      "State or Union territory_3": "Chhattisgarh"
+    },
+    {
+      "Rank_3": "73",
+      "City_3": "Cuttack",
+      "Population\n(2011)[3]_3": "606,007",
+      "Population\n(2001)_3": "534,654",
+      "State or Union territory_3": "Odisha"
+    },
+    {
+      "Rank_3": "74",
+      "City_3": "Firozabad",
+      "Population\n(2011)[3]_3": "603,797",
+      "Population\n(2001)_3": "279,102",
+      "State or Union territory_3": "Uttar Pradesh"
+    },
+    {
+      "Rank_3": "75",
+      "City_3": "Kochi",
+      "Population\n(2011)[3]_3": "601,574",
+      "Population\n(2001)_3": "596,473",
+      "State or Union territory_3": "Kerala"
+    }
+  ],
+  [
+    {
+      "Rank_4": "76",
+      "City_4": "Nellore[26]",
+      "Population\n(2011)[3]_4": "600,869",
+      "Population\n(2001)_4": "378,428",
+      "State or Union territory_4": "Andhra Pradesh"
+    },
+    {
+      "Rank_4": "77",
+      "City_4": "Bhavnagar",
+      "Population\n(2011)[3]_4": "593,768",
+      "Population\n(2001)_4": "511,085",
+      "State or Union territory_4": "Gujarat"
+    },
+    {
+      "Rank_4": "78",
+      "City_4": "Dehradun",
+      "Population\n(2011)[3]_4": "578,420",
+      "Population\n(2001)_4": "426,674",
+      "State or Union territory_4": "Uttarakhand"
+    },
+    {
+      "Rank_4": "79",
+      "City_4": "Durgapur",
+      "Population\n(2011)[3]_4": "566,937",
+      "Population\n(2001)_4": "493,405",
+      "State or Union territory_4": "West Bengal"
+    },
+    {
+      "Rank_4": "80",
+      "City_4": "Asansol",
+      "Population\n(2011)[3]_4": "564,491",
+      "Population\n(2001)_4": "475,439",
+      "State or Union territory_4": "West Bengal"
+    },
+    {
+      "Rank_4": "81",
+      "City_4": "Rourkela",
+      "Population\n(2011)[3]_4": "552,970",
+      "Population\n(2001)_4": "430,733",
+      "State or Union territory_4": "Odisha"
+    },
+    {
+      "Rank_4": "82",
+      "City_4": "Nanded",
+      "Population\n(2011)[3]_4": "550,564",
+      "Population\n(2001)_4": "430,733",
+      "State or Union territory_4": "Maharashtra"
+    },
+    {
+      "Rank_4": "83",
+      "City_4": "Kolhapur",
+      "Population\n(2011)[3]_4": "549,283",
+      "Population\n(2001)_4": "493,167",
+      "State or Union territory_4": "Maharashtra"
+    },
+    {
+      "Rank_4": "84",
+      "City_4": "Ajmer",
+      "Population\n(2011)[3]_4": "542,580",
+      "Population\n(2001)_4": "485,575",
+      "State or Union territory_4": "Rajasthan"
+    },
+    {
+      "Rank_4": "85",
+      "City_4": "Akola",
+      "Population\n(2011)[3]_4": "537,149",
+      "Population\n(2001)_4": "400,520",
+      "State or Union territory_4": "Maharashtra"
+    },
+    {
+      "Rank_4": "86",
+      "City_4": "Gulbarga",
+      "Population\n(2011)[3]_4": "532,031",
+      "Population\n(2001)_4": "422,569",
+      "State or Union territory_4": "Karnataka"
+    },
+    {
+      "Rank_4": "87",
+      "City_4": "Jamnagar",
+      "Population\n(2011)[3]_4": "529,308",
+      "Population\n(2001)_4": "443,518",
+      "State or Union territory_4": "Gujarat"
+    },
+    {
+      "Rank_4": "88",
+      "City_4": "Ujjain",
+      "Population\n(2011)[3]_4": "515,215",
+      "Population\n(2001)_4": "430,427",
+      "State or Union territory_4": "Madhya Pradesh"
+    },
+    {
+      "Rank_4": "89",
+      "City_4": "Loni",
+      "Population\n(2011)[3]_4": "512,296",
+      "Population\n(2001)_4": "120,945",
+      "State or Union territory_4": "Uttar Pradesh"
+    },
+    {
+      "Rank_4": "90",
+      "City_4": "Siliguri",
+      "Population\n(2011)[3]_4": "509,709",
+      "Population\n(2001)_4": "472,374",
+      "State or Union territory_4": "West Bengal"
+    },
+    {
+      "Rank_4": "91",
+      "City_4": "Jhansi",
+      "Population\n(2011)[3]_4": "507,293",
+      "Population\n(2001)_4": "383,644",
+      "State or Union territory_4": "Uttar Pradesh"
+    },
+    {
+      "Rank_4": "92",
+      "City_4": "Ulhasnagar",
+      "Population\n(2011)[3]_4": "506,937",
+      "Population\n(2001)_4": "473,731",
+      "State or Union territory_4": "Maharashtra"
+    },
+    {
+      "Rank_4": "93",
+      "City_4": "Jammu",
+      "Population\n(2011)[3]_4": "503,690",
+      "Population\n(2001)_4": "369,959",
+      "State or Union territory_4": "Jammu and Kashmir"
+    },
+    {
+      "Rank_4": "94",
+      "City_4": "Sangli-Miraj & Kupwad",
+      "Population\n(2011)[3]_4": "502,697",
+      "Population\n(2001)_4": "436,781",
+      "State or Union territory_4": "Maharashtra"
+    },
+    {
+      "Rank_4": "95",
+      "City_4": "Mangalore",
+      "Population\n(2011)[3]_4": "499,486",
+      "Population\n(2001)_4": "399,565",
+      "State or Union territory_4": "Karnataka"
+    },
+    {
+      "Rank_4": "96",
+      "City_4": "Erode[27]",
+      "Population\n(2011)[3]_4": "498,129",
+      "Population\n(2001)_4": "173,600",
+      "State or Union territory_4": "Tamil Nadu"
+    },
+    {
+      "Rank_4": "97",
+      "City_4": "Belgaum",
+      "Population\n(2011)[3]_4": "488,292",
+      "Population\n(2001)_4": "399,653",
+      "State or Union territory_4": "Karnataka"
+    },
+    {
+      "Rank_4": "98",
+      "City_4": "Ambattur",
+      "Population\n(2011)[3]_4": "478,134",
+      "Population\n(2001)_4": "310,967",
+      "State or Union territory_4": "Tamil Nadu"
+    },
+    {
+      "Rank_4": "99",
+      "City_4": "Tirunelveli",
+      "Population\n(2011)[3]_4": "473,637",
+      "Population\n(2001)_4": "411,831",
+      "State or Union territory_4": "Tamil Nadu"
+    },
+    {
+      "Rank_4": "100",
+      "City_4": "Malegaon",
+      "Population\n(2011)[3]_4": "471,006",
+      "Population\n(2001)_4": "409,403",
+      "State or Union territory_4": "Maharashtra"
+    }
+  ],
+  [
+    {
+      "Rank_5": "101",
+      "City_5": "Gaya",
+      "Population\n(2011)[3]_5": "463,454",
+      "Population\n(2001)_5": "385,432",
+      "State or Union territory_5": "Bihar"
+    },
+    {
+      "Rank_5": "102",
+      "City_5": "Jalgaon",
+      "Population\n(2011)[3]_5": "460,468",
+      "Population\n(2001)_5": "368,618",
+      "State or Union territory_5": "Maharashtra"
+    },
+    {
+      "Rank_5": "103",
+      "City_5": "Udaipur",
+      "Population\n(2011)[3]_5": "451,735",
+      "Population\n(2001)_5": "389,438",
+      "State or Union territory_5": "Rajasthan"
+    },
+    {
+      "Rank_5": "104",
+      "City_5": "Maheshtala",
+      "Population\n(2011)[3]_5": "449,423",
+      "Population\n(2001)_5": "385,266",
+      "State or Union territory_5": "West Bengal"
+    },
+    {
+      "Rank_5": "105",
+      "City_5": "Davanagere",
+      "Population\n(2011)[3]_5": "435,128",
+      "Population\n(2001)_5": "364,523",
+      "State or Union territory_5": "Karnataka"
+    },
+    {
+      "Rank_5": "106",
+      "City_5": "Kozhikode",
+      "Population\n(2011)[3]_5": "432,097",
+      "Population\n(2001)_5": "436,556",
+      "State or Union territory_5": "Kerala"
+    },
+    {
+      "Rank_5": "107",
+      "City_5": "Kurnool",
+      "Population\n(2011)[3]_5": "430,214",
+      "Population\n(2001)_5": "269,122",
+      "State or Union territory_5": "Andhra Pradesh"
+    },
+    {
+      "Rank_5": "108",
+      "City_5": "Rajpur Sonarpur",
+      "Population\n(2011)[3]_5": "423,806",
+      "Population\n(2001)_5": "336,707",
+      "State or Union territory_5": "West Bengal"
+    },
+    {
+      "Rank_5": "109",
+      "City_5": "Rajahmundry[28][29]",
+      "Population\n(2011)[3]_5": "419,818",
+      "Population\n(2001)_5": "315,251",
+      "State or Union territory_5": "Andhra Pradesh"
+    },
+    {
+      "Rank_5": "110",
+      "City_5": "Bokaro",
+      "Population\n(2011)[3]_5": "413,934",
+      "Population\n(2001)_5": "393,805",
+      "State or Union territory_5": "Jharkhand"
+    },
+    {
+      "Rank_5": "111",
+      "City_5": "South Dumdum",
+      "Population\n(2011)[3]_5": "410,524",
+      "Population\n(2001)_5": "392,444",
+      "State or Union territory_5": "West Bengal"
+    },
+    {
+      "Rank_5": "112",
+      "City_5": "Bellary",
+      "Population\n(2011)[3]_5": "409,644",
+      "Population\n(2001)_5": "316,766",
+      "State or Union territory_5": "Karnataka"
+    },
+    {
+      "Rank_5": "113",
+      "City_5": "Patiala",
+      "Population\n(2011)[3]_5": "405,164",
+      "Population\n(2001)_5": "303,151",
+      "State or Union territory_5": "Punjab"
+    },
+    {
+      "Rank_5": "114",
+      "City_5": "Gopalpur",
+      "Population\n(2011)[3]_5": "404,991",
+      "Population\n(2001)_5": "271,811",
+      "State or Union territory_5": "West Bengal"
+    },
+    {
+      "Rank_5": "115",
+      "City_5": "Agartala",
+      "Population\n(2011)[3]_5": "399,688",
+      "Population\n(2001)_5": "271,811",
+      "State or Union territory_5": "Tripura"
+    },
+    {
+      "Rank_5": "116",
+      "City_5": "Bhagalpur",
+      "Population\n(2011)[3]_5": "398,138",
+      "Population\n(2001)_5": "340,767",
+      "State or Union territory_5": "Bihar"
+    },
+    {
+      "Rank_5": "117",
+      "City_5": "Muzaffarnagar",
+      "Population\n(2011)[3]_5": "392,451",
+      "Population\n(2001)_5": "316,729",
+      "State or Union territory_5": "Uttar Pradesh"
+    },
+    {
+      "Rank_5": "118",
+      "City_5": "Bhatpara",
+      "Population\n(2011)[3]_5": "390,467",
+      "Population\n(2001)_5": "442,385",
+      "State or Union territory_5": "West Bengal"
+    },
+    {
+      "Rank_5": "119",
+      "City_5": "Panihati",
+      "Population\n(2011)[3]_5": "383,522",
+      "Population\n(2001)_5": "348,438",
+      "State or Union territory_5": "West Bengal"
+    },
+    {
+      "Rank_5": "120",
+      "City_5": "Latur",
+      "Population\n(2011)[3]_5": "382,754",
+      "Population\n(2001)_5": "299,985",
+      "State or Union territory_5": "Maharashtra"
+    },
+    {
+      "Rank_5": "121",
+      "City_5": "Dhule",
+      "Population\n(2011)[3]_5": "376,093",
+      "Population\n(2001)_5": "341,755",
+      "State or Union territory_5": "Maharashtra"
+    },
+    {
+      "Rank_5": "122",
+      "City_5": "Tirupati[30]",
+      "Population\n(2011)[3]_5": "374,260",
+      "Population\n(2001)_5": "228,202",
+      "State or Union territory_5": "Andhra Pradesh"
+    },
+    {
+      "Rank_5": "123",
+      "City_5": "Rohtak",
+      "Population\n(2011)[3]_5": "373,133",
+      "Population\n(2001)_5": "286,807",
+      "State or Union territory_5": "Haryana"
+    },
+    {
+      "Rank_5": "124",
+      "City_5": "Korba",
+      "Population\n(2011)[3]_5": "363,210",
+      "Population\n(2001)_5": "315,690",
+      "State or Union territory_5": "Chhattisgarh"
+    },
+    {
+      "Rank_5": "125",
+      "City_5": "Bhilwara",
+      "Population\n(2011)[3]_5": "360,009",
+      "Population\n(2001)_5": "280,128",
+      "State or Union territory_5": "Rajasthan"
+    }
+  ],
+  [
+    {
+      "Rank_6": "126",
+      "City_6": "Berhampur",
+      "Population\n(2011)[3]_6": "355,823",
+      "Population\n(2001)_6": "307,792",
+      "State or Union territory_6": "Odisha"
+    },
+    {
+      "Rank_6": "127",
+      "City_6": "Muzaffarpur",
+      "Population\n(2011)[3]_6": "351,838",
+      "Population\n(2001)_6": "305,525",
+      "State or Union territory_6": "Bihar"
+    },
+    {
+      "Rank_6": "128",
+      "City_6": "Ahmednagar",
+      "Population\n(2011)[3]_6": "350,905",
+      "Population\n(2001)_6": "307,615",
+      "State or Union territory_6": "Maharashtra"
+    },
+    {
+      "Rank_6": "129",
+      "City_6": "Mathura",
+      "Population\n(2011)[3]_6": "349,336",
+      "Population\n(2001)_6": "302,770",
+      "State or Union territory_6": "Uttar Pradesh"
+    },
+    {
+      "Rank_6": "130",
+      "City_6": "Kollam",
+      "Population\n(2011)[3]_6": "349,033",
+      "Population\n(2001)_6": "361,560",
+      "State or Union territory_6": "Kerala"
+    },
+    {
+      "Rank_6": "131",
+      "City_6": "Avadi",
+      "Population\n(2011)[3]_6": "344,701",
+      "Population\n(2001)_6": "229,403",
+      "State or Union territory_6": "Tamil Nadu"
+    },
+    {
+      "Rank_6": "132",
+      "City_6": "Kadapa",
+      "Population\n(2011)[3]_6": "343,054",
+      "Population\n(2001)_6": "125,725",
+      "State or Union territory_6": "Andhra Pradesh"
+    },
+    {
+      "Rank_6": "133",
+      "City_6": "Kamarhati",
+      "Population\n(2011)[3]_6": "336,579",
+      "Population\n(2001)_6": "314,507",
+      "State or Union territory_6": "West Bengal"
+    },
+    {
+      "Rank_6": "134",
+      "City_6": "Sambalpur",
+      "Population\n(2011)[3]_6": "335,761",
+      "Population\n(2001)_6": "296,662",
+      "State or Union territory_6": "Odisha"
+    },
+    {
+      "Rank_6": "135",
+      "City_6": "Bilaspur",
+      "Population\n(2011)[3]_6": "330,106",
+      "Population\n(2001)_6": "274,917",
+      "State or Union territory_6": "Chhattisgarh"
+    },
+    {
+      "Rank_6": "136",
+      "City_6": "Shahjahanpur",
+      "Population\n(2011)[3]_6": "327,975",
+      "Population\n(2001)_6": "296,662",
+      "State or Union territory_6": "Uttar Pradesh"
+    },
+    {
+      "Rank_6": "137",
+      "City_6": "Satara",
+      "Population\n(2011)[3]_6": "326,789",
+      "Population\n(2001)_6": "228,175",
+      "State or Union territory_6": "Maharashtra"
+    },
+    {
+      "Rank_6": "138",
+      "City_6": "Bijapur",
+      "Population\n(2011)[3]_6": "326,360",
+      "Population\n(2001)_6": "228,175",
+      "State or Union territory_6": "Karnataka"
+    },
+    {
+      "Rank_6": "139",
+      "City_6": "Rampur",
+      "Population\n(2011)[3]_6": "325,248",
+      "Population\n(2001)_6": "281,494",
+      "State or Union territory_6": "Uttar Pradesh"
+    },
+    {
+      "Rank_6": "140",
+      "City_6": "Shivamogga",
+      "Population\n(2011)[3]_6": "322,428",
+      "Population\n(2001)_6": "274,352",
+      "State or Union territory_6": "Karnataka"
+    },
+    {
+      "Rank_6": "141",
+      "City_6": "Chandrapur",
+      "Population\n(2011)[3]_6": "321,036",
+      "Population\n(2001)_6": "289,450",
+      "State or Union territory_6": "Maharashtra"
+    },
+    {
+      "Rank_6": "142",
+      "City_6": "Junagadh",
+      "Population\n(2011)[3]_6": "320,250",
+      "Population\n(2001)_6": "168,686",
+      "State or Union territory_6": "Gujarat"
+    },
+    {
+      "Rank_6": "143",
+      "City_6": "Thrissur",
+      "Population\n(2011)[3]_6": "315,596",
+      "Population\n(2001)_6": "317,526",
+      "State or Union territory_6": "Kerala"
+    },
+    {
+      "Rank_6": "144",
+      "City_6": "Alwar",
+      "Population\n(2011)[3]_6": "315,310",
+      "Population\n(2001)_6": "260,593",
+      "State or Union territory_6": "Rajasthan"
+    },
+    {
+      "Rank_6": "145",
+      "City_6": "Bardhaman",
+      "Population\n(2011)[3]_6": "314,638",
+      "Population\n(2001)_6": "285,602",
+      "State or Union territory_6": "West Bengal"
+    },
+    {
+      "Rank_6": "146",
+      "City_6": "Kulti",
+      "Population\n(2011)[3]_6": "313,977",
+      "Population\n(2001)_6": "289,903",
+      "State or Union territory_6": "West Bengal"
+    },
+    {
+      "Rank_6": "147",
+      "City_6": "Kakinada",
+      "Population\n(2011)[3]_6": "325,985",
+      "Population\n(2001)_6": "296,329",
+      "State or Union territory_6": "Andhra Pradesh"
+    },
+    {
+      "Rank_6": "148",
+      "City_6": "Nizamabad",
+      "Population\n(2011)[3]_6": "310,467",
+      "Population\n(2001)_6": "288,722",
+      "State or Union territory_6": "Telangana"
+    },
+    {
+      "Rank_6": "149",
+      "City_6": "Parbhani",
+      "Population\n(2011)[3]_6": "307,191",
+      "Population\n(2001)_6": "259,329",
+      "State or Union territory_6": "Maharashtra"
+    },
+    {
+      "Rank_6": "150",
+      "City_6": "Tumkur",
+      "Population\n(2011)[3]_6": "305,821",
+      "Population\n(2001)_6": "248,929",
+      "State or Union territory_6": "Karnataka"
+    }
+  ],
+  [
+    {
+      "Rank_7": "151",
+      "City_7": "Khammam",
+      "Population\n(2011)[3]_7": "305,000",
+      "Population\n(2001)_7": "218,689",
+      "State or Union territory_7": "Telangana"
+    },
+    {
+      "Rank_7": "152",
+      "City_7": "Ozhukarai",
+      "Population\n(2011)[3]_7": "300,028",
+      "Population\n(2001)_7": "217,707",
+      "State or Union territory_7": "Puducherry"
+    },
+    {
+      "Rank_7": "153",
+      "City_7": "Bihar Sharif",
+      "Population\n(2011)[3]_7": "296,889",
+      "Population\n(2001)_7": "232,071",
+      "State or Union territory_7": "Bihar"
+    },
+    {
+      "Rank_7": "154",
+      "City_7": "Panipat",
+      "Population\n(2011)[3]_7": "294,150",
+      "Population\n(2001)_7": "261,740",
+      "State or Union territory_7": "Haryana"
+    },
+    {
+      "Rank_7": "155",
+      "City_7": "Darbhanga",
+      "Population\n(2011)[3]_7": "294,116",
+      "Population\n(2001)_7": "267,348",
+      "State or Union territory_7": "Bihar"
+    },
+    {
+      "Rank_7": "156",
+      "City_7": "Bally",
+      "Population\n(2011)[3]_7": "291,972",
+      "Population\n(2001)_7": "260,906",
+      "State or Union territory_7": "West Bengal"
+    },
+    {
+      "Rank_7": "157",
+      "City_7": "Aizawl",
+      "Population\n(2011)[3]_7": "291,822",
+      "Population\n(2001)_7": "228,280",
+      "State or Union territory_7": "Mizoram"
+    },
+    {
+      "Rank_7": "158",
+      "City_7": "Dewas",
+      "Population\n(2011)[3]_7": "289,438",
+      "Population\n(2001)_7": "231,672",
+      "State or Union territory_7": "Madhya Pradesh"
+    },
+    {
+      "Rank_7": "159",
+      "City_7": "Ichalkaranji",
+      "Population\n(2011)[3]_7": "287,570",
+      "Population\n(2001)_7": "257,610",
+      "State or Union territory_7": "Maharashtra"
+    },
+    {
+      "Rank_7": "160",
+      "City_7": "Karnal",
+      "Population\n(2011)[3]_7": "286,974",
+      "Population\n(2001)_7": "210,476",
+      "State or Union territory_7": "Haryana"
+    },
+    {
+      "Rank_7": "161",
+      "City_7": "Bathinda",
+      "Population\n(2011)[3]_7": "285,813",
+      "Population\n(2001)_7": "217,256",
+      "State or Union territory_7": "Punjab"
+    },
+    {
+      "Rank_7": "162",
+      "City_7": "Jalna",
+      "Population\n(2011)[3]_7": "285,349",
+      "Population\n(2001)_7": "235,795",
+      "State or Union territory_7": "Maharashtra"
+    },
+    {
+      "Rank_7": "163",
+      "City_7": "Eluru",
+      "Population\n(2011)[3]_7": "283,648[31]",
+      "Population\n(2001)_7": "190,347",
+      "State or Union territory_7": "Andhra Pradesh"
+    },
+    {
+      "Rank_7": "164",
+      "City_7": "Kirari Suleman Nagar",
+      "Population\n(2011)[3]_7": "282,598",
+      "Population\n(2001)_7": "153,874",
+      "State or Union territory_7": "Delhi"
+    },
+    {
+      "Rank_7": "165",
+      "City_7": "Barasat",
+      "Population\n(2011)[3]_7": "283,443",
+      "Population\n(2001)_7": "231,515",
+      "State or Union territory_7": "West Bengal"
+    },
+    {
+      "Rank_7": "166",
+      "City_7": "Purnia",
+      "Population\n(2011)[3]_7": "280,547",
+      "Population\n(2001)_7": "171,687[32]",
+      "State or Union territory_7": "Bihar"
+    },
+    {
+      "Rank_7": "167",
+      "City_7": "Satna",
+      "Population\n(2011)[3]_7": "280,248",
+      "Population\n(2001)_7": "225,464",
+      "State or Union territory_7": "Madhya Pradesh"
+    },
+    {
+      "Rank_7": "168",
+      "City_7": "Mau",
+      "Population\n(2011)[3]_7": "279,060",
+      "Population\n(2001)_7": "212,657",
+      "State or Union territory_7": "Uttar Pradesh"
+    },
+    {
+      "Rank_7": "169",
+      "City_7": "Sonipat",
+      "Population\n(2011)[3]_7": "277,053",
+      "Population\n(2001)_7": "214,974",
+      "State or Union territory_7": "Haryana"
+    },
+    {
+      "Rank_7": "170",
+      "City_7": "Farrukhabad",
+      "Population\n(2011)[3]_7": "275,750",
+      "Population\n(2001)_7": "228,333",
+      "State or Union territory_7": "Uttar Pradesh"
+    },
+    {
+      "Rank_7": "171",
+      "City_7": "Sagar",
+      "Population\n(2011)[3]_7": "273,357",
+      "Population\n(2001)_7": "232,133",
+      "State or Union territory_7": "Madhya Pradesh"
+    },
+    {
+      "Rank_7": "172",
+      "City_7": "Rourkela",
+      "Population\n(2011)[3]_7": "273,217",
+      "Population\n(2001)_7": "224,601",
+      "State or Union territory_7": "Odisha"
+    },
+    {
+      "Rank_7": "173",
+      "City_7": "Durg",
+      "Population\n(2011)[3]_7": "268,679",
+      "Population\n(2001)_7": "232,517",
+      "State or Union territory_7": "Chhattisgarh"
+    },
+    {
+      "Rank_7": "174",
+      "City_7": "Imphal",
+      "Population\n(2011)[3]_7": "264,986",
+      "Population\n(2001)_7": "221,492",
+      "State or Union territory_7": "Manipur"
+    },
+    {
+      "Rank_7": "175",
+      "City_7": "Ratlam",
+      "Population\n(2011)[3]_7": "264,810",
+      "Population\n(2001)_7": "222,202",
+      "State or Union territory_7": "Madhya Pradesh"
+    }
+  ],
+  [
+    {
+      "Rank_8": "176",
+      "City_8": "Hapur",
+      "Population\n(2011)[3][33]": "262,801",
+      "Population\n(2001)_8": "211,983",
+      "State or Union territory_8": "Uttar Pradesh"
+    },
+    {
+      "Rank_8": "177",
+      "City_8": "Arrah",
+      "Population\n(2011)[3][33]": "261,099",
+      "Population\n(2001)_8": "203,380",
+      "State or Union territory_8": "Bihar"
+    },
+    {
+      "Rank_8": "178",
+      "City_8": "Karimnagar",
+      "Population\n(2011)[3][33]": "260,899",
+      "Population\n(2001)_8": "205,653",
+      "State or Union territory_8": "Telangana"
+    },
+    {
+      "Rank_8": "179",
+      "City_8": "Anantapur",
+      "Population\n(2011)[3][33]": "261,004",
+      "Population\n(2001)_8": "218,808",
+      "State or Union territory_8": "Andhra Pradesh"
+    },
+    {
+      "Rank_8": "180",
+      "City_8": "Etawah",
+      "Population\n(2011)[3][33]": "256,838",
+      "Population\n(2001)_8": "210,453",
+      "State or Union territory_8": "Uttar Pradesh"
+    },
+    {
+      "Rank_8": "181",
+      "City_8": "Ambernath",
+      "Population\n(2011)[3][33]": "254,003",
+      "Population\n(2001)_8": "203,795",
+      "State or Union territory_8": "Maharashtra"
+    },
+    {
+      "Rank_8": "182",
+      "City_8": "North Dumdum",
+      "Population\n(2011)[3][33]": "253,625",
+      "Population\n(2001)_8": "220,042",
+      "State or Union territory_8": "West Bengal"
+    },
+    {
+      "Rank_8": "183",
+      "City_8": "Bharatpur",
+      "Population\n(2011)[3][33]": "252,109",
+      "Population\n(2001)_8": "204,587",
+      "State or Union territory_8": "Rajasthan"
+    },
+    {
+      "Rank_8": "184",
+      "City_8": "Begusarai",
+      "Population\n(2011)[3][33]": "251,136",
+      "Population\n(2001)_8": "93,378",
+      "State or Union territory_8": "Bihar"
+    },
+    {
+      "Rank_8": "185",
+      "City_8": "New Delhi",
+      "Population\n(2011)[3][33]": "249,998",
+      "Population\n(2001)_8": "302,147",
+      "State or Union territory_8": "Delhi"
+    },
+    {
+      "Rank_8": "186",
+      "City_8": "Gandhidham",
+      "Population\n(2011)[3][33]": "248,705",
+      "Population\n(2001)_8": "166,388",
+      "State or Union territory_8": "Gujarat"
+    },
+    {
+      "Rank_8": "187",
+      "City_8": "Baranagar",
+      "Population\n(2011)[3][33]": "248,466",
+      "Population\n(2001)_8": "250,768",
+      "State or Union territory_8": "West Bengal"
+    },
+    {
+      "Rank_8": "188",
+      "City_8": "Tiruvottiyur",
+      "Population\n(2011)[3][33]": "248,059",
+      "Population\n(2001)_8": "212,281",
+      "State or Union territory_8": "Tamil Nadu"
+    },
+    {
+      "Rank_8": "189",
+      "City_8": "Puducherry",
+      "Population\n(2011)[3][33]": "241,773",
+      "Population\n(2001)_8": "220,749",
+      "State or Union territory_8": "Puducherry"
+    },
+    {
+      "Rank_8": "190",
+      "City_8": "Sikar",
+      "Population\n(2011)[3][33]": "237,579",
+      "Population\n(2001)_8": "184,904",
+      "State or Union territory_8": "Rajasthan"
+    },
+    {
+      "Rank_8": "191",
+      "City_8": "Thoothukudi",
+      "Population\n(2011)[3][33]": "237,374",
+      "Population\n(2001)_8": "216,058",
+      "State or Union territory_8": "Tamil Nadu"
+    },
+    {
+      "Rank_8": "192",
+      "City_8": "Rewa",
+      "Population\n(2011)[3][33]": "235,422",
+      "Population\n(2001)_8": "183,274",
+      "State or Union territory_8": "Madhya Pradesh"
+    },
+    {
+      "Rank_8": "193",
+      "City_8": "Mirzapur",
+      "Population\n(2011)[3][33]": "233,691",
+      "Population\n(2001)_8": "205,053",
+      "State or Union territory_8": "Uttar Pradesh"
+    },
+    {
+      "Rank_8": "194",
+      "City_8": "Raichur",
+      "Population\n(2011)[3][33]": "232,456",
+      "Population\n(2001)_8": "207,421",
+      "State or Union territory_8": "Karnataka"
+    },
+    {
+      "Rank_8": "195",
+      "City_8": "Pali",
+      "Population\n(2011)[3][33]": "229,956",
+      "Population\n(2001)_8": "187,641",
+      "State or Union territory_8": "Rajasthan"
+    },
+    {
+      "Rank_8": "196",
+      "City_8": "Ramagundam[34]",
+      "Population\n(2011)[3][33]": "229,644",
+      "Population\n(2001)_8": "236,600",
+      "State or Union territory_8": "Telangana"
+    },
+    {
+      "Rank_8": "197",
+      "City_8": "Haridwar",
+      "Population\n(2011)[3][33]": "228,832",
+      "Population\n(2001)_8": "175,010",
+      "State or Union territory_8": "Uttarakhand"
+    },
+    {
+      "Rank_8": "198",
+      "City_8": "Vijayanagaram",
+      "Population\n(2011)[3][33]": "228,025",
+      "Population\n(2001)_8": "174,324",
+      "State or Union territory_8": "Andhra Pradesh"
+    },
+    {
+      "Rank_8": "199",
+      "City_8": "Katihar",
+      "Population\n(2011)[3][33]": "225,982",
+      "Population\n(2001)_8": "175,169",
+      "State or Union territory_8": "Bihar"
+    },
+    {
+      "Rank_8": "200",
+      "City_8": "Nagarcoil",
+      "Population\n(2011)[3][33]": "224,849",
+      "Population\n(2001)_8": "208,179",
+      "State or Union territory_8": "Tamil Nadu"
+    }
+  ],
+  [
+    {
+      "Rank_9": "201",
+      "City_9": "Sri Ganganagar",
+      "Population\n(2011)[3][33]_2": "224,773",
+      "Population\n(2001)_9": "210,713",
+      "State or Union territory_9": "Rajasthan"
+    },
+    {
+      "Rank_9": "202",
+      "City_9": "Karawal Nagar",
+      "Population\n(2011)[3][33]_2": "224,666",
+      "Population\n(2001)_9": "148,549",
+      "State or Union territory_9": "Delhi"
+    },
+    {
+      "Rank_9": "203",
+      "City_9": "Mango",
+      "Population\n(2011)[3][33]_2": "223,805",
+      "Population\n(2001)_9": "166,125",
+      "State or Union territory_9": "Jharkhand"
+    },
+    {
+      "Rank_9": "204",
+      "City_9": "Thanjavur",
+      "Population\n(2011)[3][33]_2": "222,943",
+      "Population\n(2001)_9": "215,314",
+      "State or Union territory_9": "Tamil Nadu"
+    },
+    {
+      "Rank_9": "205",
+      "City_9": "Bulandshahr",
+      "Population\n(2011)[3][33]_2": "222,519",
+      "Population\n(2001)_9": "176,425",
+      "State or Union territory_9": "Uttar Pradesh"
+    },
+    {
+      "Rank_9": "206",
+      "City_9": "Uluberia",
+      "Population\n(2011)[3][33]_2": "222,240",
+      "Population\n(2001)_9": "202,135",
+      "State or Union territory_9": "West Bengal"
+    },
+    {
+      "Rank_9": "207",
+      "City_9": "Murwara",
+      "Population\n(2011)[3][33]_2": "221,883",
+      "Population\n(2001)_9": "187,029",
+      "State or Union territory_9": "Uttar Pradesh"
+    },
+    {
+      "Rank_9": "208",
+      "City_9": "Sambhal",
+      "Population\n(2011)[3][33]_2": "220,813",
+      "Population\n(2001)_9": "182,478",
+      "State or Union territory_9": "Uttar Pradesh"
+    },
+    {
+      "Rank_9": "209",
+      "City_9": "Singrauli",
+      "Population\n(2011)[3][33]_2": "220,257",
+      "Population\n(2001)_9": "185,190",
+      "State or Union territory_9": "Madhya Pradesh"
+    },
+    {
+      "Rank_9": "210",
+      "City_9": "Nadiad",
+      "Population\n(2011)[3][33]_2": "218,095",
+      "Population\n(2001)_9": "192,913",
+      "State or Union territory_9": "Gujarat"
+    },
+    {
+      "Rank_9": "211",
+      "City_9": "Secunderabad",
+      "Population\n(2011)[3][33]_2": "217,910",
+      "Population\n(2001)_9": "206,102",
+      "State or Union territory_9": "Telangana"
+    },
+    {
+      "Rank_9": "212",
+      "City_9": "Naihati",
+      "Population\n(2011)[3][33]_2": "217,900",
+      "Population\n(2001)_9": "215,303",
+      "State or Union territory_9": "West Bengal"
+    },
+    {
+      "Rank_9": "213",
+      "City_9": "Yamunanagar",
+      "Population\n(2011)[3][33]_2": "216,677",
+      "Population\n(2001)_9": "189,696",
+      "State or Union territory_9": "Haryana"
+    },
+    {
+      "Rank_9": "214",
+      "City_9": "Bidhan Nagar",
+      "Population\n(2011)[3][33]_2": "215,514",
+      "Population\n(2001)_9": "164,221",
+      "State or Union territory_9": "West Bengal"
+    },
+    {
+      "Rank_9": "215",
+      "City_9": "Pallavaram",
+      "Population\n(2011)[3][33]_2": "215,417",
+      "Population\n(2001)_9": "144,623",
+      "State or Union territory_9": "Tamil Nadu"
+    },
+    {
+      "Rank_9": "216",
+      "City_9": "Bidar",
+      "Population\n(2011)[3][33]_2": "214,373",
+      "Population\n(2001)_9": "172,877",
+      "State or Union territory_9": "Karnataka"
+    },
+    {
+      "Rank_9": "217",
+      "City_9": "Munger",
+      "Population\n(2011)[3][33]_2": "213,303",
+      "Population\n(2001)_9": "188,050",
+      "State or Union territory_9": "Bihar"
+    },
+    {
+      "Rank_9": "218",
+      "City_9": "Panchkula",
+      "Population\n(2011)[3][33]_2": "211,355",
+      "Population\n(2001)_9": "140,925",
+      "State or Union territory_9": "Haryana"
+    },
+    {
+      "Rank_9": "219",
+      "City_9": "Burhanpur",
+      "Population\n(2011)[3][33]_2": "210,886",
+      "Population\n(2001)_9": "193,725",
+      "State or Union territory_9": "Madhya Pradesh"
+    },
+    {
+      "Rank_9": "220",
+      "City_9": "Raurkela Industrial Township",
+      "Population\n(2011)[3][33]_2": "210,317",
+      "Population\n(2001)_9": "206,693",
+      "State or Union territory_9": "Odisha"
+    },
+    {
+      "Rank_9": "221",
+      "City_9": "Kharagpur",
+      "Population\n(2011)[3][33]_2": "207,604",
+      "Population\n(2001)_9": "188,761",
+      "State or Union territory_9": "West Bengal"
+    },
+    {
+      "Rank_9": "222",
+      "City_9": "Dindigul",
+      "Population\n(2011)[3][33]_2": "207,327",
+      "Population\n(2001)_9": "196,955",
+      "State or Union territory_9": "Tamil Nadu"
+    },
+    {
+      "Rank_9": "223",
+      "City_9": "Gandhinagar",
+      "Population\n(2011)[3][33]_2": "206,167",
+      "Population\n(2001)_9": "195,985",
+      "State or Union territory_9": "Gujarat"
+    },
+    {
+      "Rank_9": "224",
+      "City_9": "Hospet",
+      "Population\n(2011)[3][33]_2": "206,167",
+      "Population\n(2001)_9": "164,240",
+      "State or Union territory_9": "Karnataka"
+    },
+    {
+      "Rank_9": "225",
+      "City_9": "Nangloi Jat",
+      "Population\n(2011)[3][33]_2": "205,596",
+      "Population\n(2001)_9": "150,948",
+      "State or Union territory_9": "Delhi"
+    }
+  ],
+  [
+    {
+      "Rank_10": "226",
+      "City_10": "English Bazar",
+      "Population\n(2011)[3][33]_3": "205,521",
+      "Population\n(2001)_10": "161,456",
+      "State or Union territory_10": "West Bengal"
+    },
+    {
+      "Rank_10": "227",
+      "City_10": "Ongole",
+      "Population\n(2011)[3][33]_3": "204,746",
+      "Population\n(2001)_10": "150,471",
+      "State or Union territory_10": "Andhra Pradesh"
+    },
+    {
+      "Rank_10": "228",
+      "City_10": "Deoghar",
+      "Population\n(2011)[3][33]_3": "203,123",
+      "Population\n(2001)_10": "112,525",
+      "State or Union territory_10": "Jharkhand"
+    },
+    {
+      "Rank_10": "229",
+      "City_10": "Chapra",
+      "Population\n(2011)[3][33]_3": "202,352",
+      "Population\n(2001)_10": "79,190",
+      "State or Union territory_10": "Bihar"
+    },
+    {
+      "Rank_10": "230",
+      "City_10": "Haldia",
+      "Population\n(2011)[3][33]_3": "200,827",
+      "Population\n(2001)_10": "170,673",
+      "State or Union territory_10": "West Bengal"
+    },
+    {
+      "Rank_10": "231",
+      "City_10": "Khandwa",
+      "Population\n(2011)[3][33]_3": "200,738",
+      "Population\n(2001)_10": "172,242",
+      "State or Union territory_10": "Madhya Pradesh"
+    },
+    {
+      "Rank_10": "232",
+      "City_10": "Nandyal",
+      "Population\n(2011)[3][33]_3": "200,516",
+      "Population\n(2001)_10": "152,676",
+      "State or Union territory_10": "Andhra Pradesh"
+    },
+    {
+      "Rank_10": "233",
+      "City_10": "Chittoor[35]",
+      "Population\n(2011)[3][33]_3": "189,332",
+      "Population\n(2001)_10": "152,654",
+      "State or Union territory_10": "Andhra Pradesh"
+    },
+    {
+      "Rank_10": "234",
+      "City_10": "Morena",
+      "Population\n(2011)[3][33]_3": "200,482",
+      "Population\n(2001)_10": "150,959",
+      "State or Union territory_10": "Madhya Pradesh"
+    },
+    {
+      "Rank_10": "235",
+      "City_10": "Amroha",
+      "Population\n(2011)[3][33]_3": "198,471",
+      "Population\n(2001)_10": "165,129",
+      "State or Union territory_10": "Uttar Pradesh"
+    },
+    {
+      "Rank_10": "236",
+      "City_10": "Anand",
+      "Population\n(2011)[3][33]_3": "198,282",
+      "Population\n(2001)_10": "130,685",
+      "State or Union territory_10": "Gujarat"
+    },
+    {
+      "Rank_10": "237",
+      "City_10": "Bhind",
+      "Population\n(2011)[3][33]_3": "197,585",
+      "Population\n(2001)_10": "153,752",
+      "State or Union territory_10": "Madhya Pradesh"
+    },
+    {
+      "Rank_10": "238",
+      "City_10": "Bhalswa Jahangir Pur",
+      "Population\n(2011)[3][33]_3": "197,148",
+      "Population\n(2001)_10": "152,339",
+      "State or Union territory_10": "Delhi"
+    },
+    {
+      "Rank_10": "239",
+      "City_10": "Madhyamgram",
+      "Population\n(2011)[3][33]_3": "196,127",
+      "Population\n(2001)_10": "155,451",
+      "State or Union territory_10": "West Bengal"
+    },
+    {
+      "Rank_10": "240",
+      "City_10": "Bhiwani",
+      "Population\n(2011)[3][33]_3": "196,057",
+      "Population\n(2001)_10": "169,531",
+      "State or Union territory_10": "Haryana"
+    },
+    {
+      "Rank_10": "241",
+      "City_10": "Navi Mumbai Panvel Raigad",
+      "Population\n(2011)[3][33]_3": "195,373",
+      "Population\n(2001)_10": "",
+      "State or Union territory_10": "Maharashtra"
+    },
+    {
+      "Rank_10": "242",
+      "City_10": "Baharampur",
+      "Population\n(2011)[3][33]_3": "195,223",
+      "Population\n(2001)_10": "160,143",
+      "State or Union territory_10": "West Bengal"
+    },
+    {
+      "Rank_10": "243",
+      "City_10": "Ambala",
+      "Population\n(2011)[3][33]_3": "195,153",
+      "Population\n(2001)_10": "139,279",
+      "State or Union territory_10": "Haryana"
+    },
+    {
+      "Rank_10": "244",
+      "City_10": "Morvi",
+      "Population\n(2011)[3][33]_3": "194,947",
+      "Population\n(2001)_10": "145,719",
+      "State or Union territory_10": "Gujarat"
+    },
+    {
+      "Rank_10": "245",
+      "City_10": "Fatehpur",
+      "Population\n(2011)[3][33]_3": "193,193",
+      "Population\n(2001)_10": "151,757",
+      "State or Union territory_10": "Uttar Pradesh"
+    },
+    {
+      "Rank_10": "246",
+      "City_10": "Rae Bareli",
+      "Population\n(2011)[3][33]_3": "191,316",
+      "Population\n(2001)_10": "169,333",
+      "State or Union territory_10": "Uttar Pradesh"
+    },
+    {
+      "Rank_10": "247",
+      "City_10": "Khora",
+      "Population\n(2011)[3][33]_3": "190,005",
+      "Population\n(2001)_10": "",
+      "State or Union territory_10": "Uttar Pradesh"
+    },
+    {
+      "Rank_10": "248",
+      "City_10": "Bhusawal",
+      "Population\n(2011)[3][33]_3": "187,421",
+      "Population\n(2001)_10": "172,372",
+      "State or Union territory_10": "Maharashtra"
+    },
+    {
+      "Rank_10": "249",
+      "City_10": "Orai",
+      "Population\n(2011)[3][33]_3": "187,137",
+      "Population\n(2001)_10": "139,318",
+      "State or Union territory_10": "Uttar Pradesh"
+    },
+    {
+      "Rank_10": "250",
+      "City_10": "Bahraich",
+      "Population\n(2011)[3][33]_3": "186,223",
+      "Population\n(2001)_10": "168,323",
+      "State or Union territory_10": "Uttar Pradesh"
+    }
+  ],
+  [
+    {
+      "Rank_11": "251",
+      "City_11": "Vellore",
+      "Population\n(2011)[3][33]_4": "185,803",
+      "Population\n(2001)_11": "177,230",
+      "State or Union territory_11": "Tamil Nadu"
+    },
+    {
+      "Rank_11": "252",
+      "City_11": "Mahesana",
+      "Population\n(2011)[3][33]_4": "184,991",
+      "Population\n(2001)_11": "141,453",
+      "State or Union territory_11": "Gujarat"
+    },
+    {
+      "Rank_11": "253",
+      "City_11": "Sambalpur",
+      "Population\n(2011)[3][33]_4": "184,000",
+      "Population\n(2001)_11": "153,643",
+      "State or Union territory_11": "Orissa"
+    },
+    {
+      "Rank_11": "254",
+      "City_11": "Raiganj",
+      "Population\n(2011)[3][33]_4": "183,612",
+      "Population\n(2001)_11": "165,212",
+      "State or Union territory_11": "West Bengal"
+    },
+    {
+      "Rank_11": "255",
+      "City_11": "Sirsa",
+      "Population\n(2011)[3][33]_4": "182,534",
+      "Population\n(2001)_11": "160,735",
+      "State or Union territory_11": "Haryana"
+    },
+    {
+      "Rank_11": "256",
+      "City_11": "Danapur",
+      "Population\n(2011)[3][33]_4": "182,429",
+      "Population\n(2001)_11": "131,176",
+      "State or Union territory_11": "Bihar"
+    },
+    {
+      "Rank_11": "257",
+      "City_11": "Serampore",
+      "Population\n(2011)[3][33]_4": "181,842",
+      "Population\n(2001)_11": "197,857",
+      "State or Union territory_11": "West Bengal"
+    },
+    {
+      "Rank_11": "258",
+      "City_11": "Sultan Pur Majra",
+      "Population\n(2011)[3][33]_4": "181,554",
+      "Population\n(2001)_11": "164,426",
+      "State or Union territory_11": "Delhi"
+    },
+    {
+      "Rank_11": "259",
+      "City_11": "Guna",
+      "Population\n(2011)[3][33]_4": "180,935",
+      "Population\n(2001)_11": "137,175",
+      "State or Union territory_11": "Madhya Pradesh"
+    },
+    {
+      "Rank_11": "260",
+      "City_11": "Jaunpur",
+      "Population\n(2011)[3][33]_4": "180,362",
+      "Population\n(2001)_11": "160,055",
+      "State or Union territory_11": "Uttar Pradesh"
+    },
+    {
+      "Rank_11": "261",
+      "City_11": "Panvel",
+      "Population\n(2011)[3][33]_4": "180,020",
+      "Population\n(2001)_11": "104,058",
+      "State or Union territory_11": "Maharashtra"
+    },
+    {
+      "Rank_11": "262",
+      "City_11": "Shivpuri",
+      "Population\n(2011)[3][33]_4": "179,977",
+      "Population\n(2001)_11": "146,892",
+      "State or Union territory_11": "Madhya Pradesh"
+    },
+    {
+      "Rank_11": "263",
+      "City_11": "Surendranagar Dudhrej",
+      "Population\n(2011)[3][33]_4": "177,851",
+      "Population\n(2001)_11": "156,161",
+      "State or Union territory_11": "Gujarat"
+    },
+    {
+      "Rank_11": "264",
+      "City_11": "Unnao",
+      "Population\n(2011)[3][33]_4": "177,658",
+      "Population\n(2001)_11": "144,662",
+      "State or Union territory_11": "Uttar Pradesh"
+    },
+    {
+      "Rank_11": "265",
+      "City_11": "Hugli and Chinsurah",
+      "Population\n(2011)[3][33]_4": "177,259",
+      "Population\n(2001)_11": "170,201",
+      "State or Union territory_11": "West Bengal"
+    },
+    {
+      "Rank_11": "266",
+      "City_11": "Alappuzha",
+      "Population\n(2011)[3][33]_4": "174,164",
+      "Population\n(2001)_11": "177,029",
+      "State or Union territory_11": "Kerala"
+    },
+    {
+      "Rank_11": "267",
+      "City_11": "Kottayam",
+      "Population\n(2011)[3][33]_4": "172,878",
+      "Population\n(2001)_11": "129,894",
+      "State or Union territory_11": "Kerala"
+    },
+    {
+      "Rank_11": "268",
+      "City_11": "Machilipatnam",
+      "Population\n(2011)[3][33]_4": "169,892",
+      "Population\n(2001)_11": "179,353",
+      "State or Union territory_11": "Andhra Pradesh"
+    },
+    {
+      "Rank_11": "269",
+      "City_11": "Shimla",
+      "Population\n(2011)[3][33]_4": "169,578",
+      "Population\n(2001)_11": "142,555",
+      "State or Union territory_11": "Himachal Pradesh"
+    },
+    {
+      "Rank_11": "270",
+      "City_11": "Adoni",
+      "Population\n(2011)[3][33]_4": "166,537",
+      "Population\n(2001)_11": "",
+      "State or Union territory_11": "Andhra Pradesh"
+    },
+    {
+      "Rank_11": "271",
+      "City_11": "Tenali",
+      "Population\n(2011)[3][33]_4": "164,937",
+      "Population\n(2001)_11": "",
+      "State or Union territory_11": "Andhra Pradesh"
+    },
+    {
+      "Rank_11": "272",
+      "City_11": "Proddatur",
+      "Population\n(2011)[3][33]_4": "162,717",
+      "Population\n(2001)_11": "",
+      "State or Union territory_11": "Andhra Pradesh"
+    },
+    {
+      "Rank_11": "273",
+      "City_11": "Saharsa",
+      "Population\n(2011)[3][33]_4": "155,175",
+      "Population\n(2001)_11": "125,167[36]",
+      "State or Union territory_11": "Bihar"
+    },
+    {
+      "Rank_11": "274",
+      "City_11": "Hindupur",
+      "Population\n(2011)[3][33]_4": "151,835",
+      "Population\n(2001)_11": "",
+      "State or Union territory_11": "Andhra Pradesh"
+    },
+    {
+      "Rank_11": "275",
+      "City_11": "Sasaram",
+      "Population\n(2011)[3][33]_4": "147,396",
+      "Population\n(2001)_11": "131,172[37]",
+      "State or Union territory_11": "Bihar"
+    }
+  ],
+  [
+    {
+      "Rank_12": "276",
+      "City_12": "Hajipur",
+      "Population\n(2011)[3][33]_5": "147,126",
+      "Population\n(2001)_12": "119,412[38]",
+      "State or Union territory_12": "Bihar"
+    },
+    {
+      "Rank_12": "277",
+      "City_12": "Bhimavaram",
+      "Population\n(2011)[3][33]_5": "142,280",
+      "Population\n(2001)_12": "―",
+      "State or Union territory_12": "Andhra Pradesh"
+    },
+    {
+      "Rank_12": "278",
+      "City_12": "Dehri",
+      "Population\n(2011)[3][33]_5": "137,068",
+      "Population\n(2001)_12": "119,057[37]",
+      "State or Union territory_12": "Bihar"
+    },
+    {
+      "Rank_12": "279",
+      "City_12": "Madanapalle",
+      "Population\n(2011)[3][33]_5": "135,669",
+      "Population\n(2001)_12": "―",
+      "State or Union territory_12": "Andhra Pradesh"
+    },
+    {
+      "Rank_12": "280",
+      "City_12": "Siwan",
+      "Population\n(2011)[3][33]_5": "134,458",
+      "Population\n(2001)_12": "109,919[39]",
+      "State or Union territory_12": "Bihar"
+    },
+    {
+      "Rank_12": "281",
+      "City_12": "Bettiah",
+      "Population\n(2011)[3][33]_5": "132,896",
+      "Population\n(2001)_12": "116,670[40]",
+      "State or Union territory_12": "Bihar"
+    },
+    {
+      "Rank_12": "282",
+      "City_12": "Guntakal",
+      "Population\n(2011)[3][33]_5": "126,270",
+      "Population\n(2001)_12": "―",
+      "State or Union territory_12": "Andhra Pradesh"
+    },
+    {
+      "Rank_12": "283",
+      "City_12": "Srikakulam",
+      "Population\n(2011)[3][33]_5": "125,939",
+      "Population\n(2001)_12": "―",
+      "State or Union territory_12": "Andhra Pradesh"
+    },
+    {
+      "Rank_12": "284",
+      "City_12": "Motihari",
+      "Population\n(2011)[3][33]_5": "125,183",
+      "Population\n(2001)_12": "100,683[41]",
+      "State or Union territory_12": "Bihar"
+    },
+    {
+      "Rank_12": "285",
+      "City_12": "Dharmavaram",
+      "Population\n(2011)[3][33]_5": "121,874",
+      "Population\n(2001)_12": "―",
+      "State or Union territory_12": "Andhra Pradesh"
+    },
+    {
+      "Rank_12": "286",
+      "City_12": "Gudivada",
+      "Population\n(2011)[3][33]_5": "118,167",
+      "Population\n(2001)_12": "―",
+      "State or Union territory_12": "Andhra Pradesh"
+    },
+    {
+      "Rank_12": "287",
+      "City_12": "Narasaraopet",
+      "Population\n(2011)[3][33]_5": "116,250",
+      "Population\n(2001)_12": "―",
+      "State or Union territory_12": "Andhra Pradesh"
+    },
+    {
+      "Rank_12": "288",
+      "City_12": "Bagaha",
+      "Population\n(2011)[3][33]_5": "113,012",
+      "Population\n(2001)_12": "91,467[40]",
+      "State or Union territory_12": "Bihar"
+    },
+    {
+      "Rank_12": "289",
+      "City_12": "Miryalaguda",
+      "Population\n(2011)[3][33]_5": "109,891",
+      "Population\n(2001)_12": "91,395",
+      "State or Union territory_12": "Telangana"
+    },
+    {
+      "Rank_12": "290",
+      "City_12": "Tadipatri",
+      "Population\n(2011)[3][33]_5": "108,171",
+      "Population\n(2001)_12": "―",
+      "State or Union territory_12": "Andhra Pradesh"
+    },
+    {
+      "Rank_12": "291",
+      "City_12": "Kishanganj",
+      "Population\n(2011)[3][33]_5": "107,076",
+      "Population\n(2001)_12": "85,590[42]",
+      "State or Union territory_12": "Bihar"
+    },
+    {
+      "Rank_12": "292",
+      "City_12": "Karaikudi",
+      "Population\n(2011)[3][33]_5": "106,714",
+      "Population\n(2001)_12": "86,596",
+      "State or Union territory_12": "Tamil Nadu"
+    },
+    {
+      "Rank_12": "293",
+      "City_12": "Suryapet",
+      "Population\n(2011)[3][33]_5": "105,250",
+      "Population\n(2001)_12": "94,585",
+      "State or Union territory_12": "Telangana"
+    },
+    {
+      "Rank_12": "294",
+      "City_12": "Jamalpur",
+      "Population\n(2011)[3][33]_5": "105,221",
+      "Population\n(2001)_12": "96,983[43]",
+      "State or Union territory_12": "Bihar"
+    },
+    {
+      "Rank_12": "295",
+      "City_12": "Kavali",
+      "Population\n(2011)[3][33]_5": "104,000",
+      "Population\n(2001)_12": "―",
+      "State or Union territory_12": "Andhra Pradesh"
+    },
+    {
+      "Rank_12": "296",
+      "City_12": "Tadepalligudem",
+      "Population\n(2011)[3][33]_5": "103,906",
+      "Population\n(2001)_12": "―",
+      "State or Union territory_12": "Andhra Pradesh"
+    },
+    {
+      "Rank_12": "297",
+      "City_12": "Amaravati",
+      "Population\n(2011)[3][33]_5": "103,000",
+      "Population\n(2001)_12": "―",
+      "State or Union territory_12": "Andhra Pradesh"
+    },
+    {
+      "Rank_12": "298",
+      "City_12": "Buxar",
+      "Population\n(2011)[3][33]_5": "102,591",
+      "Population\n(2001)_12": "83,168[44]",
+      "State or Union territory_12": "Bihar"
+    },
+    {
+      "Rank_12": "299",
+      "City_12": "Jehanabad",
+      "Population\n(2011)[3][33]_5": "102,456",
+      "Population\n(2001)_12": "81,503[45]",
+      "State or Union territory_12": "Bihar"
+    },
+    {
+      "Rank_12": "300",
+      "City_12": "Aurangabad",
+      "Population\n(2011)[3][33]_5": "101,520",
+      "Population\n(2001)_12": "79,393[46]",
+      "State or Union territory_12": "Bihar"
+    }
+  ],
+  [
+    {
+      "Related lists": "Andhra Pradesh\nAssam\nBihar\nChhattisgarh\nDelhi\nGujarat\nHaryana\nHimachal Pradesh\nJammu and Kashmir\nJharkhand\nKerala\nMadhya Pradesh\nOdisha\nPunjab and Chandigarh\nRajasthan\nTamil Nadu\nTelangana\nUttar Pradesh\nUttarakhand\nWest Bengal"
+    },
+    {
+      "Related lists": "List of cities in India by population\nList of most populous metropolitan areas in India\nList of million-plus agglomerations in India"
+    }
+  ],
+  [
+    {
+      "Environment": "Climate\nClimatic regions"
+    },
+    {
+      "Environment": "Fossil Parks\nGeology of India\nIndian Plate\nStones"
+    },
+    {
+      "Environment": "Beaches\nCanals\nDesert\nExtreme points\nGlaciers\nIslands\nLakes\nMountains\nRivers\nValleys\nVolcanoes\nWaterfalls\nPlains\n\nIndo-Gangetic\nEastern Coastal\nWestern Coastal"
+    },
+    {
+      "Environment": "North India\nNortheast India\nEast India\nSouth India\nWest India\nCentral India"
+    },
+    {
+      "Environment": "Autonomous administrative divisions\nStates and territories\nDistricts\nCities\nTowns\nMunicipalities"
+    },
+    {
+      "Environment": "Biogeographic classification\nEcoregions\nFauna\nFlora\nForests\nIssues\nProtected Areas\nWildlife"
+    }
+  ]
+]
